@@ -8,6 +8,9 @@
 
 听起来有点憨批，但其实也挺有用的。
 
+## 注意
+
+windows 缓存会保存在：`C:\Users\你的用户名\AppData\Local\LiRen\what-was-i-doing` 这里
 
 ## 开发
 
