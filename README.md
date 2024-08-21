@@ -19,3 +19,12 @@ windows 缓存会保存在：`C:\Users\你的用户名\AppData\Local\LiRen\what-
 ```commandline
 pyinstaller --onefile --windowed --icon=./assets/favicon.ico main.py -n what-was-i-doing
 ```
+
+踩坑：必须把pyinstaller安装在虚拟环境里，然后打包前激活虚拟环境再输入上面的指令。
+
+
+
+
+
+
+
